@@ -1,0 +1,31 @@
+This is a test file for the errlog.vim syntax file.
+-----
+Error: this is a valid line
+This is not a validError line
+This is an err line
+Notaerror line
+ERR:this is a valid line
+This is not a valid line ERRZ
+-ERROR is a valid line
+This line does not have 2 errd
+This line has 5 errs_ in it
+3 errored is not valid
+4 error(s)-is a valid line
+This line don't have no errorz
+This line has 2 errs
+No errz
+Here be ERRORS
+-----
+Warning: this is a valid line
+This is not a validWarning line
+This line has WRNS
+Notawarning line
+WRN:this is a valid line
+A wrnd is not a valid line
+--WRN(S) is a valid example
+Warningses is not correct
+This line has warnings
+No warningsz here
+There be wrns here
+No WRNZ
+-----
