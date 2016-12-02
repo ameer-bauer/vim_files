@@ -10,6 +10,9 @@ INSTALL
 1) Make sure you have the following command in your .vimrc file (or _vimrc in Windows):
 syntax on
 
+[For *nix sytems, feel free to copy the provided .vimrc and .gvimrc to your home folder.]
+(For windows, feel free to copy the .vimrc and .gvimrc files to $HOME/_vimrc and $HOME/_gvimrc)
+
 2) Copy the errlog.vim file from the "syntax" folder into either:
 ~/.vim/syntax/ (on UNIX or Linux systems)
 or
