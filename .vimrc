@@ -8,3 +8,4 @@ set list
 set listchars+=space:·
 set autoindent
 set hlsearch
+set cursorline
