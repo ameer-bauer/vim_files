@@ -9,3 +9,4 @@ set listchars+=space:·
 set autoindent
 set hlsearch
 set cursorline
+set colorcolumn=80
