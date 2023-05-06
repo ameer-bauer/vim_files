@@ -10,3 +10,4 @@ set autoindent
 set hlsearch
 set cursorline
 set colorcolumn=80
+set ruler
